@@ -2,5 +2,5 @@
 
 | library | Description |
 | --- | --- |
-| git status | List all new or modified files |
+| [Ace](https://github.com/ajaxorg/ace/)  | Ace is a standalone code editor written in JavaScript |
 | git diff | Show file differences that haven't been staged |
